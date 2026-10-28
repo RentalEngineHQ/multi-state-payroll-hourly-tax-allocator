@@ -1,0 +1,14 @@
+{
+  "asset_class": "B2B Multi-State Corporate Payroll & Hourly Tax Allocator",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "resident_vs_work_state_logs",
+    "gross_compensation_allocation_matrices",
+    "localized_state_tax_retainage_codes",
+    "net_disbursement_bookkeeping_values"
+  ]
+}
